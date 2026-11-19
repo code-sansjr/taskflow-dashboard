@@ -1,8 +1,8 @@
 # TaskFlow Dashboard
 
-Dashboard em **React + Tailwind CSS** para gerenciar os projetos e tarefas da [TaskFlow API](https://github.com/Ozzy0s/taskflow-api).
+Dashboard em **React + Tailwind CSS** para gerenciar os projetos e tarefas da [TaskFlow API](https://github.com/code-sansjr/taskflow-api).
 
-[![CI](https://github.com/Ozzy0s/taskflow-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/Ozzy0s/taskflow-dashboard/actions/workflows/ci.yml)
+[![CI](https://github.com/code-sansjr/taskflow-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/code-sansjr/taskflow-dashboard/actions/workflows/ci.yml)
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)](https://vite.dev)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06b6d4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
@@ -61,12 +61,12 @@ O projeto foi construído como peça de portfólio **Full Stack**: a API cuida d
 ### Pré-requisitos
 
 - Node.js 22+ (mínimo 20.19)
-- A [TaskFlow API](https://github.com/Ozzy0s/taskflow-api) em execução (PHP 8.4 + MySQL 8)
+- A [TaskFlow API](https://github.com/code-sansjr/taskflow-api) em execução (PHP 8.4 + MySQL 8)
 
 ### 1. Clone e instale
 
 ```bash
-git clone https://github.com/Ozzy0s/taskflow-dashboard.git
+git clone https://github.com/code-sansjr/taskflow-dashboard.git
 cd taskflow-dashboard
 npm install
 ```
@@ -163,7 +163,7 @@ npm run lint && npm test && npm run build
 
 ## English
 
-React + Tailwind dashboard for the [TaskFlow API](https://github.com/Ozzy0s/taskflow-api).
+React + Tailwind dashboard for the [TaskFlow API](https://github.com/code-sansjr/taskflow-api).
 
 ### About
 
@@ -181,7 +181,7 @@ TaskFlow Dashboard is the web interface of the TaskFlow ecosystem. It consumes t
 ### Quick start
 
 ```bash
-git clone https://github.com/Ozzy0s/taskflow-dashboard.git
+git clone https://github.com/code-sansjr/taskflow-dashboard.git
 cd taskflow-dashboard
 npm install
 npm run dev

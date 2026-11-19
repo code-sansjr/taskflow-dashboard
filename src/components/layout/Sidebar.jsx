@@ -66,7 +66,7 @@ export default function Sidebar({ open, onClose }) {
 
         <div className="mt-auto space-y-4">
           <a
-            href="https://github.com/Ozzy0s/taskflow-api"
+            href="https://github.com/code-sansjr/taskflow-api"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 rounded-xl border border-slate-800/80 px-3 py-2.5 text-xs text-slate-400 transition hover:border-slate-700 hover:text-slate-200"
